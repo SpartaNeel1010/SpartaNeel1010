@@ -84,5 +84,4 @@ _Jan 2021 – Jan 2024_
 - **Email**: [shahneel1309@gmail.com](mailto:shahneel1309@gmail.com)
 - **LinkedIn**: [linkedin.com/in/nshah1010](https://www.linkedin.com/in/nshah1010)
 - **GitHub**: [SpartaNeel1010](https://github.com/SpartaNeel1010)
-
-Let me know if you'd like any further adjustments!
+- 📄 View my **[Resume](./Resume.pdf)**
